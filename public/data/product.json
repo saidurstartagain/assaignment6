@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Create ATS-optimized professional resumes in minutes using advanced AI.",
+    "price": 29,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["100+ Templates", "ATS Optimization", "PDF Export", "Cover Letter"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 2,
+    "name": "LinkedIn Profile Optimizer",
+    "description": "Boost your LinkedIn visibility with AI-powered profile suggestions and keywords.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Profile Score", "Keyword Optimization", "Content Ideas"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/174/174857.png"
+  },
+  {
+    "id": 3,
+    "name": "AI Cover Letter Writer",
+    "description": "Generate personalized, job-specific cover letters instantly.",
+    "price": 19,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Job Matching", "Tone Adjustment", "Multiple Versions"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3062/3062325.png"
+  },
+  {
+    "id": 4,
+    "name": "Interview Question Prep",
+    "description": "Practice with AI-generated common and behavioral interview questions.",
+    "price": 25,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Mock Interview", "Feedback", "Company Specific"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135789.png"
+  },
+  {
+    "id": 5,
+    "name": "Job Application Tracker",
+    "description": "Track all your applications, deadlines, and follow-ups in one place.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "",
+    "tagType": "",
+    "features": ["Pipeline View", "Status Tracking", "Reminders"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2991/2991112.png"
+  },
+  {
+    "id": 6,
+    "name": "AI Portfolio Builder",
+    "description": "Create stunning personal portfolio websites with AI assistance.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Drag & Drop", "Templates", "Mobile Responsive"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135710.png"
+  },
+  {
+    "id": 7,
+    "name": "Email Writer Pro",
+    "description": "Write professional cold emails, follow-ups with perfect tone.",
+    "price": 12,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Tone Detection", "A/B Testing", "Templates"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3062/3062343.png"
+  },
+  {
+    "id": 8,
+    "name": "ATS Resume Scanner",
+    "description": "Scan your resume and get instant ATS compatibility score.",
+    "price": 10,
+    "period": "one-time",
+    "tag": "",
+    "tagType": "",
+    "features": ["Keyword Analysis", "Score Report", "Suggestions"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135755.png"
+  },
+  {
+    "id": 9,
+    "name": "Career Path Advisor",
+    "description": "Get personalized career recommendations based on your skills.",
+    "price": 35,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Skill Gap Analysis", "Roadmap", "Salary Insights"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2991/2991108.png"
+  }
+]
