@@ -3,7 +3,7 @@ import { SiIlovepdf } from "react-icons/si";
 
 const Footer = () => {
   return (
-    <> 
+    <>
       <div className="w-11/12 mx-auto bg-[#4F39F6] text-white py-20 space-y-12 mt-16 text-center rounded-2xl">
         <h2 className="font-bold text-4xl">Ready to Transform Your Workflow?</h2>
         <p>
@@ -12,7 +12,7 @@ const Footer = () => {
         </p>
 
         <div className="flex gap-4 justify-center">
-          <button className="btn text-purple-600 rounded-full hover:bg-red-300">
+          <button className="btn text-purple-500 rounded-full hover:bg-red-300">
             Explore Products
           </button>
           <button className="w-28 border rounded-full text-white hover:bg-white hover:text-purple-700 transition-all">
