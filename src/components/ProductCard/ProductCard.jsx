@@ -11,7 +11,7 @@ const ProductCard = ({ product, onAddToCart, isAlreadyInCart }) => {
   };
 
   return (
-    <div className="card bg-base-100 shadow-xl hover:shadow-2xl transition-all border border-purple-200 h-full">
+    <div id="products" className="card bg-base-100 shadow-xl hover:shadow-2xl transition-all border border-purple-200 h-full">
 
       <figure className="px-6 pt-6">
         <div className="w-12 h-13 bg-blue-50 rounded-full flex items-center justify-center">
