@@ -5,7 +5,7 @@ import { HiOutlineRocketLaunch } from "react-icons/hi2";
 
 const StepCard = ({ number, Icon, title, description, isPlain }) => {
   return (
-    <div className="relative p-9 bg-white border border-gray-100 rounded-[2.5rem] shadow-lg shadow-gray-100/50 flex flex-col items-center text-center hover:bg-gray-200">
+    <div id="steps" className="relative p-9 bg-white border border-gray-100 rounded-[2.5rem] shadow-lg shadow-gray-100/50 flex flex-col items-center text-center hover:bg-gray-200">
 
 
       <div className="absolute top-6 right-6 w-10 h-10 bg-[#7B39FD] rounded-full flex items-center justify-center text-white font-semibold text-sm">

@@ -1,7 +1,7 @@
 
 const CartItem = ({ item, onRemove }) => {
   return (
-    <div className="flex gap-6 bg-base-100 p-6 rounded-2xl shadow-sm border">
+    <div id="cartItem" className="flex gap-6 bg-base-100 p-6 rounded-2xl shadow-sm border">
       <img
         src={item.icon}
         alt={item.name}

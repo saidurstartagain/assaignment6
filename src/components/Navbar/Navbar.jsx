@@ -15,10 +15,10 @@ const Navbar = ({ cartCount = 0 }) => {
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1 gap-4 text-base font-medium">
                         <li><a href="#products">Products</a></li>
-                        <li><a href="#products">Features</a></li>
+                        <li><a href="#Psection">Features</a></li>
                         <li><a href="#pricing">Pricing</a></li>
-                        <li><a href="#pricing">Testimonials</a></li>
-                        <li><a href="#steps">FAQ</a></li>
+                        <li><a href="#steps">Testimonials</a></li>
+                        <li><a href="#">FAQ</a></li>
                     </ul>
                 </div>
 
