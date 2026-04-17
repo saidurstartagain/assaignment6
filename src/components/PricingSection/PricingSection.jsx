@@ -23,7 +23,7 @@ const PricingSection = () => {
           <div className=" text-white bg-[#4F39F6] rounded-3xl p-8 relative scale-105 shadow-xl">
             <div className="absolute -top-4 left-1/2 -translate-x-1/2 bg-orange-200 text-orange-400 px-6 py-1 rounded-full font-normal w-40">Most Popular</div>
             <h3 className="text-xl font-semibold">Pro</h3>
-            <div className="text-5xl font-bold my-6">$19<span className="text-lg font-normal text-gray-500">/month</span></div>
+            <div className="text-5xl font-bold my-5">$19<span className="text-lg font-normal text-gray-500">/month</span></div>
             <ul className="space-y-3 text-left">
               <li className="flex justify-center items-center gap-2"><FaCheck /> Unlimited Tools</li>
               <li className="flex justify-center items-center gap-2"><FaCheck />All Premium Features</li>
@@ -47,7 +47,7 @@ const PricingSection = () => {
         </div>
       </div>
 
-     
+
     </div>
 
   );
